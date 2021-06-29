@@ -2,7 +2,11 @@
 My name is Rafael Bonamigo, A.K.A Bona, and I'm a developer from Brazil<br>
 Almost graduated (will finish it in 2022 xD)
 - 🔭 Working on multiple frontend and backend project using Angular/VueJS and Nodejs
-- 🌱 Honing my JavaScript skills -> <a href="https://github.com/ryanmcdermott/clean-code-javascript#objects-and-data-structures">clean-code-javascript</a>
+- 🌱 Honing my JavaScript skills -> 
+<a href="https://learnjavascript.online/app.html">learn js online</a> / 
+<a href="https://github.com/ryanmcdermott/clean-code-javascript#objects-and-data-structures">clean-code-javascript</a> /
+<a href="https://treinamento.vuejsbrasil.org/">vuejs brasil</a>
+
 <br>
 
 ## 💻 Techs & Tools I most use
